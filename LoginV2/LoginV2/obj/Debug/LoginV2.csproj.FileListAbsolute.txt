@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\NEWPRO\C#\LoginV2\LoginV2\bin\LoginV2.dll.config
+C:\Users\Administrator\Desktop\NEWPRO\C#\LoginV2\LoginV2\bin\LoginV2.dll
+C:\Users\Administrator\Desktop\NEWPRO\C#\LoginV2\LoginV2\bin\LoginV2.pdb
+C:\Users\Administrator\Desktop\NEWPRO\C#\LoginV2\LoginV2\obj\Debug\LoginV2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\NEWPRO\C#\LoginV2\LoginV2\obj\Debug\LoginV2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NEWPRO\C#\LoginV2\LoginV2\obj\Debug\LoginV2.dll
+C:\Users\Administrator\Desktop\NEWPRO\C#\LoginV2\LoginV2\obj\Debug\LoginV2.pdb
